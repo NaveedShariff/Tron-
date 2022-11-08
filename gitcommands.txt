@@ -4,4 +4,8 @@ git clone
 git command 
 git push
 
+
+git pull
+git babu
+
 Thank you so much 
